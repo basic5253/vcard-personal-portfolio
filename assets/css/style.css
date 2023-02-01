@@ -546,6 +546,12 @@ main {
 
 .service-content-box { text-align: center; }
 
+.service-content-box a {
+  text-decoration: none;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
 .service-item-title { margin-bottom: 7px; }
 
 .service-item-text {
